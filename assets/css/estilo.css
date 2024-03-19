@@ -1,0 +1,11 @@
+body{
+    background-color: #3fb0ef !important;
+}
+.container{
+
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(image.jpg);
+    width: 320px;
+    color: #fff;
+    font-size: 15px;
+}
+
